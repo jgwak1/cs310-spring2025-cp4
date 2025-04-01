@@ -23,8 +23,8 @@
 ## CP4 Submission Instructions  
 Follow the **"CP Submission Instructions"** guideline on Brightspace.
 
-- Name your submission file as: `CP4_Pair-<N>.tar.gz`, where `<N>` matches your assigned pair number 
-- Ensure that the `README.md` file includes the information for **all members**
+- Name your submission file as: `CP4__Pair_<Lastname1>_<Lastname2>.tar.gz`, which should match your GitHub Classroom team name.
+- Ensure that the `README.md` file includes the information for **all team members**
 - For the 3-page write-up, include the **Google Docs link** at the **top of the `README.md` file**  
 - Your submission should include all deliverables described in the CP4 specification  
   (e.g., Code, README.md that includes the google-docs link to the 3-page write-up, etc.)
