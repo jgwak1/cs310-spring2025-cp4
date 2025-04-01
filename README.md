@@ -25,8 +25,7 @@ Follow the **"CP Submission Instructions"** guideline on Brightspace.
 
 - Name your submission file as: `CP4_Pair-<N>.tar.gz`, where `<N>` matches your assigned pair number 
 - Ensure that the `README.md` file includes the information for **all members**
+- For the 3-page write-up, include the **Google Docs link** at the **top of the `README.md` file**  
 - Your submission should include all deliverables described in the CP4 specification  
   (e.g., Code, README.md that includes the google-docs link to the 3-page write-up, etc.)
-- For the 3-page write-up, include the **Google Docs link** at the **top of the `README.md` file**  
-
 
