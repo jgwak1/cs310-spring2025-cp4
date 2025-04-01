@@ -1,9 +1,32 @@
-# cs310-spring2025-cp4
+# CS310 - Spring 2025 - CP4
 
-Full Names:
+**Link to 3-Page Write-Up (Google Docs):**  
+(Enter the link here)
 
-GitHub IDs:
+**Full Names:**  
+(Enter your full names here)
 
-Binghamton CS userids:
+**GitHub IDs:**  
+(Enter your GitHub usernames here)
 
-Discord names:
+**Binghamton CS UserIDs:**  
+(Enter your Binghamton CS user IDs here)
+
+**Discord Names:**  
+(Enter your Discord names here)
+
+---
+
+## CP4 Specification  
+[CP4 Spec Document](https://docs.google.com/document/d/1MgHf3hxCuC6pDJqWsf9IXmGj1mVLnj8hBSU0GNSodd0/edit?usp=sharing)
+
+## CP4 Submission Instructions  
+Follow the **"CP Submission Instructions"** guideline on Brightspace.
+
+- Name your submission file as: `CP4_Pair-<N>.tar.gz`, where `<N>` matches your assigned pair number 
+- Ensure that the `README.md` file includes the information for **all members**
+- Your submission should include all deliverables described in the CP4 specification  
+  (e.g., Code, README.md that includes the google-docs link to the 3-page write-up, etc.)
+- For the 3-page write-up, include the **Google Docs link** at the **top of the `README.md` file**  
+
+
